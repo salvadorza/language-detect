@@ -25,7 +25,7 @@ Este programa detecta automáticamente el idioma de cualquier texto ingresado. C
 
 ● Resultados Claros y Personalizados
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Muestra el nombre completo del idioma detectado y alerta en caso de errores con mensajes personalizados.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Muestra el nombre del idioma detectado y alerta de errores con mensajes personalizados.
 
 ● Manejo de Errores
 
@@ -37,7 +37,7 @@ Este programa detecta automáticamente el idioma de cualquier texto ingresado. C
 
 ● Ideal para Aprendices y Profesionales
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Útil tanto para estudiantes que exploran nuevos idiomas como para profesionales que trabajan con textos multilingües.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Útil para estudiantes que exploran nuevos idiomas y para profesionales que trabajan con textos multilingües.
 
 # Requisitos🔎
 
