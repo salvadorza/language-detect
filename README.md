@@ -13,7 +13,7 @@ Este programa detecta automáticamente el idioma de cualquier texto ingresado. C
 
 ● Soporte Multilingüe
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Reconoce una amplia variedad de idiomas, desde inglés y español hasta idiomas menos comunes como zulú o bengalí.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Reconoce una amplia variedad de idiomas, desde inglés y español hasta idiomas menos comunes como zulú o bengalí.
 
 ● Validación de Texto
 
