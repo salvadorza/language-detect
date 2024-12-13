@@ -37,7 +37,7 @@ Este programa detecta automáticamente el idioma de cualquier texto ingresado. C
 
 ● Ideal para Aprendices y Profesionales
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Útil para estudiantes que exploran nuevos idiomas y para profesionales que trabajan con textos multilingües.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Útil para estudiantes y para profesionales que trabajan con textos multilingües.
 
 # Requisitos🔎
 
