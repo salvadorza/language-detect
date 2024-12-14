@@ -47,6 +47,6 @@ Librerías usadas:
 
 ● CustomTkinter
 
-● langdetect con su módulo detect
+● Langdetect con su módulo detect
 
 
